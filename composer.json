@@ -1,0 +1,14 @@
+{
+    "name": "inkapplications/trello-api",
+    "description": "A simple PHP trello API built out in Retrofit.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxwell Vandervelde",
+            "email": "Max@MaxVandervelde.com"
+        }
+    ],
+    "require": {
+        "tebru/retrofit-php": "~0.2"
+    }
+}
